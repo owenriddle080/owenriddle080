@@ -18,7 +18,7 @@ I'm a passionate data analyst/developer who loves building projects, exploring n
 
 - **Languages:** Python, Vega/Vegalite (learning), DAX, SQL
 - **Frameworks/Libraries:** Flask, Pandas, TKinter, PDFPlumber
-- **Tools & Platforms:** VScode, Github, Microsoft Power BI
+- **Tools & Platforms:** VScode, Github, Microsoft Power BI, SSRS, SSMS
 - **Other Interests:** Machine learning, AI, and data science
 
 ## Projects

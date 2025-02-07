@@ -6,7 +6,7 @@
 
 # Hello, I'm Owen
 
-I'm a passionate data analyst/developer who loves building projects, exploring new technologies, and continuously learning. I strive to create code and deliver insights that make a difference for stakeholders.
+I'm a passionate data analyst/developer who loves building interesting projects, exploring new technologies, and continuously learning. I strive to create code and deliver insights that make a difference for stakeholders.
 
 ## About Me
 

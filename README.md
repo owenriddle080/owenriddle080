@@ -11,22 +11,20 @@ I'm a passionate data analyst/developer who loves building projects, exploring n
 ## About Me
 
 - **Current Focus:** Working on innovative projects that solve real-world problems.
-- **Learning:** Always exploring new technologies and honing my skills in Python.
+- **Learning:** Always exploring new technologies and honing my skills in Data analysis and visualiztion primarily using Python, Vega, SQL and Microsoft Power-BI
 - **How to Reach Me:** You can contact me at owenriddle080@gmail.com or connect with me on https://www.linkedin.com/in/owen-riddle-aa3501124/
 
 ## Skills & Technologies
 
-- **Languages:** Python, Vega/Vegalite
-- **Frameworks/Libraries:** Flask
+- **Languages:** Python, Vega/Vegalite, DAX
+- **Frameworks/Libraries:** Flask, Pandas, TKinter, PDFPlumber
 - **Tools & Platforms:** VScode, Github, Microsoft Power BI
 - **Other Interests:** Machine learning, AI, and data science
 
 ## Projects
 
-Here is my project that I’m proud of:
+Here is an example of some of my work:
 
-- **[Project Name 1](https://github.com/yourusername/project1):** A brief description of what this project does.
-
-*Check out my repositories to see more of my work!*
+- **[PDF Parser](https://github.com/owenriddle080/Projects/tree/main/Python/PDF%20Parser)** PDF Parsing app that lets the user create regex formulas to extract pdf text. Displays matches and captures groups intuitively for user understanding. 
 
 Thank you for stopping by my GitHub profile!

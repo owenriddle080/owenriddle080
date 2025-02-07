@@ -16,7 +16,7 @@ I'm a passionate data analyst/developer who loves building projects, exploring n
 
 ## Skills & Technologies
 
-- **Languages:** Python, Vega/Vegalite (learning), DAX
+- **Languages:** Python, Vega/Vegalite (learning), DAX, SQL
 - **Frameworks/Libraries:** Flask, Pandas, TKinter, PDFPlumber
 - **Tools & Platforms:** VScode, Github, Microsoft Power BI
 - **Other Interests:** Machine learning, AI, and data science

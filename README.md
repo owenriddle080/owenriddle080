@@ -6,7 +6,7 @@
 
 # Hello, I'm Owen
 
-I'm a passionate data analyst/developer who loves building projects, exploring new technologies, and continuously learning. Whether it's diving into a new framework or contributing to open source, I strive to create code and insights that makes a difference.
+I'm a passionate data analyst/developer who loves building projects, exploring new technologies, and continuously learning. I strive to create code and deliver insights that make a difference for stakeholders.
 
 ## About Me
 
@@ -16,7 +16,7 @@ I'm a passionate data analyst/developer who loves building projects, exploring n
 
 ## Skills & Technologies
 
-- **Languages:** Python, Vega/Vegalite, DAX
+- **Languages:** Python, Vega/Vegalite (learning), DAX
 - **Frameworks/Libraries:** Flask, Pandas, TKinter, PDFPlumber
 - **Tools & Platforms:** VScode, Github, Microsoft Power BI
 - **Other Interests:** Machine learning, AI, and data science
